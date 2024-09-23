@@ -36,6 +36,6 @@ We welcome contributions to enhance the game or add new features. To contribute:
 4. Submit a pull request.
 
 ---
-## License
+# License
 
 This project is licensed under the MIT License. See the [LICENSE](#) file for more details.
