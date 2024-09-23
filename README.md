@@ -1,4 +1,4 @@
-# 3D Maze Game with Ray Casting in Python
+# 3D Maze Game in Python
 
 ## Introduction
 This project is a simple 3D maze game built using Python and **Ray Casting** to simulate a 3D environment. The game demonstrates how 3D-like visuals can be achieved using 2D matrices, without relying on external game engines or complex graphics libraries.
